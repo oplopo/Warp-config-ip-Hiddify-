@@ -1,7 +1,6 @@
 warp://162.159.192.131:1018/?ifp=1-5
 warp://188.114.98.179:908/?ifp=1-5
 warp://188.114.96.224:854/?ifp=1-5
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@0b6f7f9a.nazirr.pages.dev:443?path=%2FpniKk7xQtxWZQFrX%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=0b6F7f9a.NazirR.PAges.DeV&fp=randomized&type=ws&sni=0b6f7f9a.nAZiRr.pAgeS.DEv#1%EF%B8%8F%E2%83%A3
+vless://e3033dec-0221-4a0c-e5cf-a91795591b17@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=blog.nazirman.cfd#%D8%B3%D8%B9%DB%8C%D8%AF+%D9%85%D9%86%D8%AF%D8%B3
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@6120b536.Nazir70.PAges.DeV:443?path=%2FVZ1TpTTRdbJrFefK%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=6120b536.Nazir70.PAges.DeV&fp=randomized&type=ws&sni=6120b536.NazIr70.pagES.DeV#2%EF%B8%8F%E2%83%A3
