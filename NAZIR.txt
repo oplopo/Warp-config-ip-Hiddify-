@@ -1,7 +1,3 @@
-vless://ee84b8c3-9bc7-4e79-8605-f80e544ec99e@baso3.basooo4.wORkers.DEV:80?path=vless-ws%2F%3Fed%3D2048&security=none&encryption=none&host=baso3.basooo4.wORkers.DEV&type=ws#24
-
-vless://e3033dec-0221-4a0c-e5cf-a91795591b17@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=blog.nazirman.cfd#%D8%B3%D8%B9%DB%8C%D8%AF+%D9%85%D9%86%D8%AF%D8%B3
-
 vless://ff5fb120-d5ae-49f9-b118-64c484044e30@ostadthar.ostatahir.worKers.DeV:80?path=vless-ws%2F%3Fed%3D2048&security=none&encryption=none&host=ostadthar.ostatahir.worKers.DeV&type=ws#1
 vless://a17c3048-6092-46cb-99b4-2b899f957794@zhaed.zhaed.wOrKers.DEv:80?path=vless-ws%2F%3Fed%3D2048&security=none&encryption=none&host=zhaed.zhaed.wOrKers.DEv&type=ws#2
 vless://35cbd9e0-5e7d-460c-b8f0-35668c1915b9@ahta.hata-51e.WoRKers.DEv:80?path=vless-ws%2F%3Fed%3D2048&security=none&encryption=none&host=ahta.hata-51e.WoRKers.DEv&type=ws#3
