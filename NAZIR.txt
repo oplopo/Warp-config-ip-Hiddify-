@@ -1,3 +1,5 @@
+vless://ee84b8c3-9bc7-4e79-8605-f80e544ec99e@baso3.basooo4.wORkers.DEV:80?path=vless-ws%2F%3Fed%3D2048&security=none&encryption=none&host=baso3.basooo4.wORkers.DEV&type=ws#24
+
 warp://162.159.192.131:1018/?ifp=1-5
 warp://188.114.98.179:908/?ifp=1-5
 warp://188.114.96.224:854/?ifp=1-5
