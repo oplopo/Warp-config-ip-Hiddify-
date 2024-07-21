@@ -1,2 +1,3 @@
 warp://2606:4700:d0::1bf7:2e7:bfbc:4dd9:1180/?ifp=5-10
+vless://df7bc5ac-11a5-40b1-abb9-5f546b0070e3@gcore.com:80?path=%2F&security=none&encryption=none&host=blueserver.ir&type=ws#21%F0%9F%8E%96%EF%B8%8F
 warp://188.114.97.156:8886/?ifp=5-10
