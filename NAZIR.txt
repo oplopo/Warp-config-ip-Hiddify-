@@ -1,4 +1,4 @@
 vless://df7bc5ac-11a5-40b1-abb9-5f546b0070e3@gcore.com:80?path=%2F&security=none&encryption=none&host=blueserver.ir&type=ws#21%F0%9F%8E%96%EF%B8%8F
 vless://0dbef6f2-0357-46df-eb33-79ffa5b927ca@gcore.com:80?path=%2F&security=none&encryption=none&host=esaj.ir&type=ws#21%F0%9F%8E%96%EF%B8%8F%F0%9F%8E%96%EF%B8%8F
-warp://2606:4700:d0::1bf7:2e7:bfbc:4dd9:1180/?ifp=5-10
 
+vless://384c44e8-7ec0-44b2-ecf7-b0699defb392@146.75.121.57:443?path=%2Fws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=xchief.com&fp=random&type=ws&sni=fastly.com#F-443.%284%D8%A2%DA%AF%D9%88%D8%B3%D8%AA%29
