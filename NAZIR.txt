@@ -1,5 +1,4 @@
-
-vless://23c9d1fa-72b1-4ef0-f699-209d4ab3cc0e@speedtest.net:443?path=%2Fws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=dl5.dlhas.ir&fp=random&type=ws&sni=speedtest.net#F-2-2222222222222222
+vless://3950531b-20ad-4ead-dda5-96c5ae9ba7a4@speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=nazirman.ir&fp=chrome&type=ws&sni=speedtest.net#F-m
 
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FDRvn3njTwHAJvnk1%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=10A3F7a5.bPb-WOrkEr-PAnel-3I7.pAGes.DeV&fp=randomized&type=ws&sni=10A3F7a5.BPB-woRKeR-PaNeL-3i7.pAgeS.deV#%F0%9F%92%A6+BPB+-+Domain_2+%3A+443
