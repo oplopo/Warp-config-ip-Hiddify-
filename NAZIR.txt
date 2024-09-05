@@ -1,4 +1,3 @@
-vless://85253503-4c3b-43c7-98fd-5ffb8141a410@speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=nazir2.ir&fp=chrome&type=ws&sni=speedtest.net#F-1%F0%9F%92%90%F0%9F%92%90%F0%9F%92%90%F0%9F%92%90%F0%9F%92%90%F0%9F%92%90%F0%9F%92%90%F0%9F%92%90
-
+vless://2a7a3c1d-7ee7-4cfe-d95a-2d20659af8e4@speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=sou.ir&fp=chrome&type=ws&sni=speedtest.net#F3.%F0%9F%8D%8D%F0%9F%8D%8D%F0%9F%8D%8D%F0%9F%8D%8D%F0%9F%8D%8D%F0%9F%8D%8D%F0%9F%8D%8D%F0%9F%8D%8D
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FDRvn3njTwHAJvnk1%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=10A3F7a5.bPb-WOrkEr-PAnel-3I7.pAGes.DeV&fp=randomized&type=ws&sni=10A3F7a5.BPB-woRKeR-PaNeL-3i7.pAgeS.deV#%F0%9F%92%A6+BPB+-+Domain_2+%3A+443
