@@ -1,5 +1,5 @@
-vless://2a7a3c1d-7ee7-4cfe-d95a-2d20659af8e4@speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=sou.ir&fp=chrome&type=ws&sni=speedtest.net#F3.%F0%9F%8D%8D%F0%9F%8D%8D%F0%9F%8D%8D%F0%9F%8D%8D%F0%9F%8D%8D%F0%9F%8D%8D%F0%9F%8D%8D%F0%9F%8D%8D
+vless://13f3e611-db64-4b56-db12-94c8cdb114b0@speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=img.ir&fp=chrome&type=ws&sni=speedtest.net#%F0%9F%91%91%D8%B4%D8%A7%D9%87%D9%86%D8%B4%D8%A7%D9%87+%D8%A2%D8%B1%DB%8C%D8%A7%D9%85%D9%87%D8%B1+%F0%9F%91%91
 
-vless://5c9de970-4c26-4ff3-cd1f-f0efed8470d4@speedtest.net:80?path=%2F&security=none&encryption=none&alpn=h2,http/1.1&host=fui.ir&fp=chrome&type=ws&sni=speedtest.net#F5-%F0%9F%8D%87%F0%9F%8D%87%F0%9F%8D%87%F0%9F%8D%87%F0%9F%8D%87%F0%9F%8D%87%F0%9F%8D%87%F0%9F%8D%87
+vless://13f3e611-db64-4b56-db12-94c8cdb114b0@speedtest.net:80?path=%2F&security=none&encryption=none&alpn=h2,http/1.1&host=img.ir&fp=chrome&type=ws&sni=speedtest.net#%D8%B4%D8%A7%D9%87%D9%86%D8%B4%D8%A7%D9%87+%D8%A2%D8%B1%DB%8C%D8%A7%D9%85%D9%87%D8%B1+%F0%9F%91%91
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FDRvn3njTwHAJvnk1%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=10A3F7a5.bPb-WOrkEr-PAnel-3I7.pAGes.DeV&fp=randomized&type=ws&sni=10A3F7a5.BPB-woRKeR-PaNeL-3i7.pAgeS.deV#%F0%9F%92%A6+BPB+-+Domain_2+%3A+443
