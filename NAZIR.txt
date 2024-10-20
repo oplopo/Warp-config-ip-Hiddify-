@@ -4,6 +4,8 @@ vless://13f3e611-db64-4b56-db12-94c8cdb114b0@speedtest.net:80?path=%2F&security=
 
 vless://f559996b-7f93-4f63-bba7-bd2469f72d03@151.101.252.132:80?path=%2F&security=none&encryption=none&host=aki.ir&type=ws#fastly-80
 
+vless://11d33851-a25b-4fa3-b43a-b7ec4f1d7c28@[2a01:4f8:1c1b:2b21::1]:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9A%A8%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%84_%D8%B4%D8%AF%DB%8C%D8%AF%F0%9F%9A%A8
+
 vless://f559996b-7f93-4f63-bba7-bd2469f72d03@167.82.64.145:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=aki.ir&fp=chrome&type=ws&sni=fastly.com#fastly-443
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FDRvn3njTwHAJvnk1%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=10A3F7a5.bPb-WOrkEr-PAnel-3I7.pAGes.DeV&fp=randomized&type=ws&sni=10A3F7a5.BPB-woRKeR-PaNeL-3i7.pAgeS.deV#%F0%9F%92%A6+BPB+-+Domain_2+%3A+443
