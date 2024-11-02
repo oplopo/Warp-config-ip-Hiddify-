@@ -1,4 +1,4 @@
-vless://aaeb4b40-3732-468b-b5b7-13cb7e920142@93.123.17.254:80?path=%2F&security=none&encryption=none&host=kojaro.com&type=ws#%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C+%D8%B3%D8%B9%DB%8C%D8%AF+%D9%85%D9%86%D8%AF%D8%B3
+vless://e4a81849-6f45-4554-d17f-7330d946e87d@92.223.124.49:80?path=%2F&security=none&encryption=none&host=behindaru24.com&type=ws#%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C_%D8%B3%D8%B9%DB%8C%D8%AF_%D9%85%D9%86%D8%AF%D8%B3
 
 vless://13f3e611-db64-4b56-db12-94c8cdb114b0@167.82.30.71:80?path=%2F&security=none&encryption=none&host=img.ir&type=ws#167.80
 
