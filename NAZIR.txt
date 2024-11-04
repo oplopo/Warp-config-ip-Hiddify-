@@ -1,4 +1,6 @@
-vless://e4a81849-6f45-4554-d17f-7330d946e87d@92.223.124.49:80?path=%2F&security=none&encryption=none&host=behindaru24.com&type=ws#%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C_%D8%B3%D8%B9%DB%8C%D8%AF_%D9%85%D9%86%D8%AF%D8%B3
+vless://e4a81849-6f45-4554-d17f-7330d946e87d@92.38.142.21:80?path=%2F&security=none&encryption=none&host=behindaru24.com&type=ws#%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C_%D8%B3%D8%B9%DB%8C%D8%AF_%D9%85%D9%86%D8%AF%D8%B3.G80
+
+vless://e4a81849-6f45-4554-d17f-7330d946e87d@92.223.124.17:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=behindaru24.com&fp=chrome&type=ws&sni=gcore.com#%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C_%D8%B3%D8%B9%DB%8C%D8%AF_%D9%85%D9%86%D8%AF%D8%B3.G
 
 vless://13f3e611-db64-4b56-db12-94c8cdb114b0@167.82.30.71:80?path=%2F&security=none&encryption=none&host=img.ir&type=ws#167.80
 
