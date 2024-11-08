@@ -1,6 +1,11 @@
 vless://e4a81849-6f45-4554-d17f-7330d946e87d@92.38.142.21:80?path=%2F&security=none&encryption=none&host=behindaru24.com&type=ws#VPN-G-80
+
 vless://e4a81849-6f45-4554-d17f-7330d946e87d@92.223.124.17:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=behindaru24.com&fp=chrome&type=ws&sni=gcore.com#VPN-G-443
-vless://13f3e611-db64-4b56-db12-94c8cdb114b0@167.82.30.71:80?path=%2F&security=none&encryption=none&host=img.ir&type=ws#VPN-F-80
-vless://13f3e611-db64-4b56-db12-94c8cdb114b0@speedtest.net:80?path=%2F&security=none&encryption=none&host=img.ir&type=ws#VPN-F-S-80
-vless://f559996b-7f93-4f63-bba7-bd2469f72d03@151.101.252.132:80?path=%2F&security=none&encryption=none&host=aki.ir&type=ws#vpn-f-80
+
+vless://e5a2feec-a530-4f32-d9fd-cb39fb7d6a31@167.82.81.226:80?path=%2F&security=none&encryption=none&host=amir33.ir&type=ws#fastly-80.167
+
+vless://e5a2feec-a530-4f32-d9fd-cb39fb7d6a31@23.235.33.250:80?path=%2F&security=none&encryption=none&host=amir33.ir&type=ws#fastly-80
+
+
+
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FDRvn3njTwHAJvnk1%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=10A3F7a5.bPb-WOrkEr-PAnel-3I7.pAGes.DeV&fp=randomized&type=ws&sni=10A3F7a5.BPB-woRKeR-PaNeL-3i7.pAgeS.deV#%F0%9F%92%A6+%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%84_%D8%B4%D8%AF%DB%8C%D8%AF%F0%9F%92%A6
