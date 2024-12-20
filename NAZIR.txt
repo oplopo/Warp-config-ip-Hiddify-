@@ -5,3 +5,5 @@ vless://911aeeb5-b462-4882-d632-e08e137ec33c@199.232.126.14:80?path=%2F&security
 vless://9b591323-f985-417d-959a-15495571bbe6@[2a01:4f8:1c1b:2b21::1]:1600?security=none&encryption=none&headerType=http&type=tcp#IP.v6
 
 vless://5048adf8-7a46-4783-84dd-4631c5d33ffc@92.38.170.6:80?path=%2F&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=eramigallery.com&fp=chrome&type=ws&sni=gcore.com#GCOR80
+
+warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#سلامتی_سعید_مندس&&detour=warp://p2@188.114.97.170:894#هادوک_جان
