@@ -11,3 +11,5 @@ vless://f3eedd5a-0c7c-407d-e972-7ab792701c28@151.101.87.26:80?path=%2F&security=
 vless://f3eedd5a-0c7c-407d-e972-7ab792701c28@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=amir255.ir&type=ws#%D8%AA%D8%B1%DB%8C%D8%AF%D8%B1%D8%B4%D9%88
 
 vless://9b591323-f985-417d-959a-15495571bbe6@[2a01:4f8:1c1b:2b21::1]:1600?security=none&encryption=none&headerType=http&type=tcp#IP_6
+
+vless://fe95a44a-4933-4600-d8ff-5e5cefd5b8f3@92.223.120.10:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=www.heyvatech.com&fp=chrome&type=ws&sni=gcore.com#%D8%AC%DB%8C%DA%A9%D9%88%D8%B1
