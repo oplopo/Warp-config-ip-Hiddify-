@@ -19,3 +19,6 @@ vless://11d33851-a25b-4fa3-b43a-b7ec4f1d7c28@[2a01:4f8:1c1b:2b21::1]:80?security
 
 vless://4e2ac0ba-dd3a-4a16-a970-af4261b463f9@92.223.124.45:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=fatyi.com&fp=chrome&type=ws&sni=gcore.com#GCOR-443
 
+
+vless://4e2ac0ba-dd3a-4a16-a970-af4261b463f9@92.223.120.10:80?path=%2F&security=none&encryption=none&host=fatyi.com&type=ws#GCOR-80
+
