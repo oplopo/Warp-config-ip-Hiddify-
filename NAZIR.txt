@@ -1,3 +1,6 @@
+
+vless://dbeba0c2-3288-4e2c-b000-7bee4ee6f8a5@151.101.87.26:80?mode=auto&path=%2F&security=none&encryption=none&host=nazir89.ir&type=xhttp#%D9%82%D8%B7%D8%B9%20%D8%A8%D9%88%D8%AF%DB%8C%D9%85
+
 vless://911aeeb5-b462-4882-d632-e08e137ec33c@23.235.33.250:80?path=%2F&security=none&encryption=none&host=amir66.ir&type=ws#vpn.1
 vless://911aeeb5-b462-4882-d632-e08e137ec33c@167.82.81.226:80?path=%2F&security=none&encryption=none&host=amir66.ir&type=ws#vpn.2
 vless://911aeeb5-b462-4882-d632-e08e137ec33c@NUFiLTER.fastly80.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=amir66.ir&type=ws#vpn.3
