@@ -1,1 +1,1 @@
-vless://dbeba0c2-3288-4e2c-b000-7bee4ee6f8a5@151.101.87.26:80?mode=auto&path=%2F&security=none&encryption=none&host=nazir89.ir&type=xhttp#%F0%9F%98%8D
+hysteria2://tdCvf3DolY@65.109.212.183:14009?security=tls&obfs=salamander&obfs-password=qweQWE123%21%40%23&insecure=1#hysteria2-non.tls
