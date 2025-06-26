@@ -4,9 +4,9 @@ hysteria2://tdCvf3DolY@65.109.212.183:14009?security=tls&obfs=salamander&obfs-pa
 
 vless://b300d6ce-6bae-4bd9-9279-e800bf264fee@151.101.87.26:80?mode=auto&path=%2F&security=none&encryption=none&host=nazir89.ir&type=xhttp#Fastly
 
+
+vless://b300d6ce-6bae-4bd9-9279-e800bf264fee@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=nazir89.ir&type=xhttp#Fastly.S
+
+
 vless://7c75cda9-ae4b-48aa-9466-f6ceb709ed5e@[2a01:4f9:c011:dd0::1]:8080?security=none&encryption=none&headerType=http&type=tcp#TCP-IP.6
 
-
-
-
-{"stats":{},"log":{"loglevel":"none"},"policy":{"levels":{"8":{"handshake":4,"connIdle":300,"uplinkOnly":1,"downlinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"]}},{"tag":"http","port":10809,"protocol":"http","settings":{"userLevel":8}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"213.176.67.129","port":443,"users":[{"id":"86c50e3a-5b87-49dd-bd20-03c7f2735e40","security":"auto","level":8,"encryption":"none","flow":""}]}]},"streamSettings":{"network":"ws","security":"tls","wsSettings":{"path":"/eyJleHAiOjE3NTA2NDY5MzI5MDR9?ed=2560","headers":{"Host":"987654321123456789.nv2ron.ir"}},"tlsSettings":{"allowInsecure":false,"serverName":"987654321123456789.nv2ron.ir","alpn":["h3"],"fingerprint":"chrome","show":false,"publicKey":"","shortId":"","spiderX":""},"sockopt":{"dialerProxy":"fragment"}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"fragment","protocol":"freedom","settings":{"fragment":{"packets":"tlshello","length":"10-20","interval":"0"}},"streamSettings":{"network":"tcp","security":"","sockopt":{"TcpNoDelay":true,"mark":255}}}],"dns":{"servers":["8.8.8.8"]},"remarks":"بارانی | ","routing":{"domainStrategy":"Asls","rules":[]}}
