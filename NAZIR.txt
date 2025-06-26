@@ -7,6 +7,3 @@ vless://b300d6ce-6bae-4bd9-9279-e800bf264fee@151.101.87.26:80?mode=auto&path=%2F
 
 vless://b300d6ce-6bae-4bd9-9279-e800bf264fee@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=nazir89.ir&type=xhttp#Fastly.S
 
-
-vless://7c75cda9-ae4b-48aa-9466-f6ceb709ed5e@[2a01:4f9:c011:dd0::1]:8080?security=none&encryption=none&headerType=http&type=tcp#TCP-IP.6
-
