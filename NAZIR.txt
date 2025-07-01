@@ -2,7 +2,7 @@ hysteria2://h8SYg9iOjX@p.kadoo.sbs:8443?security=tls&obfs=salamander&obfs-passwo
 
 hysteria2://tdCvf3DolY@65.109.212.183:14009?security=tls&obfs=salamander&obfs-password=qweQWE123%21%40%23&insecure=1#hysteria2-non.tls
 
-vless://b300d6ce-6bae-4bd9-9279-e800bf264fee@NUFiLTER.fastly80-3.hosting-ip.com:80?mode=auto&path=%2F&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=nazir89.ir&fp=chrome&type=xhttp&sni=Fastly.com#Fastly.N
+vless://b300d6ce-6bae-4bd9-9279-e800bf264fee@151.101.3.8:80?mode=auto&path=%2F&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=nazir89.ir&fp=chrome&type=xhttp&sni=Fastly.com#Fastly.N
 
 vless://b300d6ce-6bae-4bd9-9279-e800bf264fee@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=nazir89.ir&type=xhttp#Fastly.S
 
