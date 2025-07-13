@@ -4,4 +4,4 @@ hysteria2://tdCvf3DolY@65.109.212.183:14009?security=tls&obfs=salamander&obfs-pa
 
 vless://ad96999b-6037-40d7-b363-0f1579aa71cb@r.naziir.sbs:443?mode=auto&path=%2Fdl%3Fed%3D2560&security=reality&encryption=none&pbk=FKqqu4vuFDfHHol30bbPgv59bhrQ1-cel894_YHAZWY&fp=chrome&spx=%2F&type=xhttp&sni=www.sciencedirect.com&sid=d1fa30bff47dc0#Reality.R
 
-less://1d12d69d-14ae-4c2a-a212-b177d0d55123@www.speedtest.net:443?path=%2Fnazir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=feet-physician-versions-ce.trycloudflare.com&fp=chrome&type=ws&sni=feet-physician-versions-ce.trycloudflare.com#Argo
+vless://1d12d69d-14ae-4c2a-a212-b177d0d55123@www.speedtest.net:443?path=%2Fnazir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=feet-physician-versions-ce.trycloudflare.com&fp=chrome&type=ws&sni=feet-physician-versions-ce.trycloudflare.com#Argo
