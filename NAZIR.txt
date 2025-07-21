@@ -1,6 +1,4 @@
 
-vless://1d12d69d-14ae-4c2a-a212-b177d0d55123@www.speedtest.net:80?path=%2Fnazir&security=&alpn=h2%2Chttp%2F1.1&encryption=none&host=feet-physician-versions-ce.trycloudflare.com&fp=chrome&type=ws&sni=feet-physician-versions-ce.trycloudflare.com#ARGO
-
 
 
 hysteria2://sDcM4f3dNb@91.107.173.208:38838?security=tls&obfs=salamander&obfs-password=123ASD%21%40%23qwe&insecure=1#hysteria2-F
@@ -10,8 +8,4 @@ hysteria2://1cc29372-abd3-4633-bffc-84b4d3c51d1d@frfr.yinheyz.cfd:33426?security
 
 
 
-
-hysteria2://h8SYg9iOjX@p.kadoo.sbs:8443?security=tls&obfs=salamander&obfs-password=hsdfFSD%40%23%2434&insecure=1#hysteria2
-
-hysteria2://tdCvf3DolY@65.109.212.183:14009?security=tls&obfs=salamander&obfs-password=qweQWE123%21%40%23&insecure=1#hysteria2-non.tls
 
