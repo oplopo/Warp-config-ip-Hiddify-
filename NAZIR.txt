@@ -1,7 +1,5 @@
+hysteria2://4NJ9q0OcC8@91.107.173.208:53664?security=tls&obfs=salamander&obfs-password=%40%21%40%23DSAEEDS%40&insecure=1#hysteria2-53664
 
-hysteria2://sDcM4f3dNb@91.107.173.208:38838?security=tls&obfs=salamander&obfs-password=123ASD%21%40%23qwe&insecure=1#hysteria2-F
-
-hysteria2://1cc29372-abd3-4633-bffc-84b4d3c51d1d@frfr.yinheyz.cfd:33426?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1&sni=frfr.yinheyz.cfd#FR-c
 
 vless://1673c288-9eb3-490d-935c-c9a4622c0791@www.speedtest.net:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=c.irkadoo.sbs%3A80&type=ws#C.IRKADOO
 
