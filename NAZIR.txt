@@ -1,4 +1,5 @@
-hysteria2://4NJ9q0OcC8@91.107.173.208:53664?security=tls&obfs=salamander&obfs-password=%40%21%40%23DSAEEDS%40&insecure=1#hysteria2-53664
+hysteria2://4NJ9q0OcC8@h.naziir.sbs:53664?security=tls&obfs=salamander&obfs-password=%40%21%40%23DSAEEDS%40&insecure=1#hysteria2-53664
+
 
 
 vless://1673c288-9eb3-490d-935c-c9a4622c0791@www.speedtest.net:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=c.irkadoo.sbs%3A80&type=ws#C.IRKADOO
