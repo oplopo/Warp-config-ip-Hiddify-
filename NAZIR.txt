@@ -1,2 +1,4 @@
 =
 vless://40d9c0a4-84de-48bd-a9eb-bced8a2b2585@www.speedtest.net:8080?path=%2F&security=&encryption=none&host=cc.rsopfnsc35.sbs%3A80&type=ws#w-8080
+
+hysteria2://osGJyB7LOw@91.107.190.166:8443?security=tls&obfs=salamander&obfs-password=KLSADFIU43%23%24&insecure=1#hysteria2-8443
