@@ -1,10 +1,1 @@
-hysteria2://4NJ9q0OcC8@h.naziir.sbs:53664?security=tls&obfs=salamander&obfs-password=%40%21%40%23DSAEEDS%40&insecure=1#hysteria2-53664
-
-
-vless://40d88d68-3324-4fc9-856b-d4ed4316d3bf@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=b.jaegbsem36.cfd%3A80&type=ws#BTC
-
-
-
-
-
-
+dmxlc3M6Ly80MGQ5YzBhNC04NGRlLTQ4YmQtYTllYi1iY2VkOGEyYjI1ODVAd3d3LnNwZWVkdGVzdC5uZXQ6ODA4MD9wYXRoPSUyRiZzZWN1cml0eT1ub25lJmVuY3J5cHRpb249bm9uZSZob3N0PWNjLnJzb3BmbnNjMzUuc2JzJTNBODAmdHlwZT13cyN3LTgwODA=
