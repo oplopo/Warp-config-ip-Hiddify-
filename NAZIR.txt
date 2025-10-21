@@ -1,7 +1,2 @@
+vless://7b205f94-6403-411a-b579-ffa7a245cd8e@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=ccc.jaegbsem36.cfd%3A80&type=ws#%40webamoozir
 
-vless://40d88d68-3324-4fc9-856b-d4ed4316d3bf@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=b.jaegbsem36.cfd%3A80&type=ws#BTC-jlp7cldu
-
-
-vless://40d9c0a4-84de-48bd-a9eb-bced8a2b2585@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=cc.rsopfnsc35.sbs%3A80&type=ws#%D9%88%D8%A8%20%D8%A2%D9%85%D9%88%D8%B2
-
-hysteria2://osGJyB7LOw@91.107.190.166:8443?security=tls&obfs=salamander&obfs-password=KLSADFIU43%23%24&insecure=1#%D9%85%D8%AD%D9%85%D8%AF%20%D8%AC%D8%B1%D8%AC%D9%86%D8%AF%DB%8C
