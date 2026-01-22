@@ -1,5 +1,8 @@
-vless://7b205f94-6403-411a-b579-ffa7a245cd8e@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=ccc.jaegbsem36.cfd%3A80&type=ws#%40webamoozir
+vless://7b205f94-6403-411a-b579-ffa7a245cd8e@8.6.112.0:2052?path=%2F&security=none&encryption=none&host=ccc.jaegbsem36.cfd%3A80&type=ws#%D8%BA%DB%8C%D8%B1%20%D9%81%D8%B9%D8%A7%D9%84%20%E2%9D%8C
 
-hysteria2://xtGIM7iEx9@91.107.190.166:8443?security=tls&obfs=salamander&obfs-password=KLSADFIU43%23%24&insecure=1#%D9%87%DB%8C%D8%B3%D8%AA%D8%B1%DB%8C%D8%A7.2
 
-vless://7b205f94-6403-411a-b579-ffa7a245cd8e@[2a01:4f8:1c17:e280::1]:2052?path=%2F&security=none&encryption=none&host=ccc.jaegbsem36.cfd%3A80&type=ws#%DA%AF%D8%A8%D8%B1
+less://7b205f94-6403-411a-b579-ffa7a245cd8e@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=ccc.jaegbsem36.cfd%3A80&type=ws#%40webamoozir
+
+ysteria2://xtGIM7iEx9@91.107.190.166:8443?security=tls&obfs=salamander&obfs-password=KLSADFIU43%23%24&insecure=1#%D9%87%DB%8C%D8%B3%D8%AA%D8%B1%DB%8C%D8%A7.2
+
+less://7b205f94-6403-411a-b579-ffa7a245cd8e@[2a01:4f8:1c17:e280::1]:2052?path=%2F&security=none&encryption=none&host=ccc.jaegbsem36.cfd%3A80&type=ws#%DA%AF%D8%A8%D8%B1
