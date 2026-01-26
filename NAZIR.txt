@@ -1,8 +1,5 @@
-vless://7b205f94-6403-411a-b579-ffa7a245cd8e@8.6.112.0:2052?path=%2F&security=none&encryption=none&host=ccc.jaegbsem36.cfd%3A80&type=ws#%D8%BA%DB%8C%D8%B1%20%D9%81%D8%B9%D8%A7%D9%84%20%E2%9D%8C
 
 
-less://7b205f94-6403-411a-b579-ffa7a245cd8e@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=ccc.jaegbsem36.cfd%3A80&type=ws#%40webamoozir
+vless://22fb4488-1f26-4dd0-b03b-b98c227ff6d6@n.naziir.sbs:8080?mode=auto&path=%2F&security=none&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=xhttp#%D8%B3%D9%84%D8%A7%D9%85%20%D9%85%D9%86%D8%AF%D8%B3
 
-ysteria2://xtGIM7iEx9@91.107.190.166:8443?security=tls&obfs=salamander&obfs-password=KLSADFIU43%23%24&insecure=1#%D9%87%DB%8C%D8%B3%D8%AA%D8%B1%DB%8C%D8%A7.2
-
-less://7b205f94-6403-411a-b579-ffa7a245cd8e@[2a01:4f8:1c17:e280::1]:2052?path=%2F&security=none&encryption=none&host=ccc.jaegbsem36.cfd%3A80&type=ws#%DA%AF%D8%A8%D8%B1
+vless://e1e257bc-fcca-4806-b5cc-e40f071a62ec@213.176.94.75:808?path=%2Fabc%3Fed%3D2048&security=none&encryption=none&host=film-doni.com&type=ws#%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF
