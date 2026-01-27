@@ -6,4 +6,8 @@ vless://22fb4488-1f26-4dd0-b03b-b98c227ff6d6@nn.naziir.sbs:8080?mode=auto&path=%
 vless://3640a7c1-17bf-4a39-b5d5-f431bd89914f@nn.naziir.sbs:2052?path=%2F&security=none&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=ws#xhttp
 
 
-vless://e1e257bc-fcca-4806-b5cc-e40f071a62ec@213.176.94.75:808?path=%2Fabc%3Fed%3D2048&security=none&encryption=none&host=film-doni.com&type=ws#%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF%E2%9C%85
+vless://3640a7c1-17bf-4a39-b5d5-f431bd89914f@205.233.181.229:2052?path=%2F&security=&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=ws#xhttp.2
+
+vless://3640a7c1-17bf-4a39-b5d5-f431bd89914f@185.18.250.245:2052?path=%2F&security=none&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=ws#xhttp.1
+
+vless://3640a7c1-17bf-4a39-b5d5-f431bd89914f@104.25.245.80:2052?path=%2F&security=none&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=ws#xhttp.2
