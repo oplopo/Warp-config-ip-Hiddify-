@@ -11,3 +11,8 @@ vless://3640a7c1-17bf-4a39-b5d5-f431bd89914f@205.233.181.229:2052?path=%2F&secur
 vless://3640a7c1-17bf-4a39-b5d5-f431bd89914f@185.18.250.245:2052?path=%2F&security=none&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=ws#xhttp.1
 
 vless://3640a7c1-17bf-4a39-b5d5-f431bd89914f@104.25.245.80:2052?path=%2F&security=none&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=ws#xhttp.2
+
+vless://22fb4488-1f26-4dd0-b03b-b98c227ff6d6@190.93.244.11:8080?mode=auto&path=%2F&security=none&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=xhttp#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%F0%9F%92%99%F0%9F%A7%A1
+
+
+vless://3640a7c1-17bf-4a39-b5d5-f431bd89914f@104.24.254.236:2052?path=%2F&security=none&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=ws#xhttp.4
