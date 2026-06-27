@@ -1,15 +1,15 @@
-vless://643b2a6d-2f06-4dff-9ae7-c6824ceda648@188.114.97.6:2052?path=%2F&security=none&encryption=none&host=cccc.jaegbsem36.cfd%3A&type=ws#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
+vless://3cd3dad1-b004-4e5a-8b94-b2fffa068700@188.114.97.6:8080?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=cusa.rsopfnsc35.sbs%3A80&type=xhttp#xhttp-%F0%9F%87%BA%F0%9F%87%B2
 
-vless://3640a7c1-17bf-4a39-b5d5-f431bd89914f@clyde.ns.cloudflare.com:2052?path=%2F&security=none&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=ws#xhttp.
+vless://3cd3dad1-b004-4e5a-8b94-b2fffa068700@hcaptcha.com:8080?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=cusa.rsopfnsc35.sbs%3A80&type=xhttp#xhttp-%F0%9F%87%BA%F0%9F%87%B2%F0%9F%87%BA%F0%9F%87%B2
 
+vless://3cd3dad1-b004-4e5a-8b94-b2fffa068700@104.16.0.0:8080?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=cs.rsopfnsc35.sbs%3A80&type=xhttp#xhttp-%F0%9F%87%B8%F0%9F%87%AA%F0%9F%87%B8%F0%9F%87%AA
 
-vless://3640a7c1-17bf-4a39-b5d5-f431bd89914f@205.233.181.229:2052?path=%2F&security=&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=ws#xhttp.2
+vless://3cd3dad1-b004-4e5a-8b94-b2fffa068700@auth.tanio.ir:11000?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=8c_ARGTFGvRIXQ9cuYKqw64YCqFzrw-IWl39-pph5U8&fp=chrome&spx=%2FdNnQVHfZUBYBpaJ&type=xhttp&sni=play.google.com&sid=b490a1#R-%F0%9F%87%BA%F0%9F%87%B2
 
-vless://3640a7c1-17bf-4a39-b5d5-f431bd89914f@185.18.250.245:2052?path=%2F&security=none&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=ws#xhttp.1
+vless://3cd3dad1-b004-4e5a-8b94-b2fffa068700@104.21.79.54:8080?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=cs.rsopfnsc35.sbs%3A80&type=xhttp#xhttp-%F0%9F%87%B8%F0%9F%87%AA
 
-vless://3640a7c1-17bf-4a39-b5d5-f431bd89914f@104.25.245.80:2052?path=%2F&security=none&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=ws#xhttp.2
+vless://3cd3dad1-b004-4e5a-8b94-b2fffa068700@cart.zivartan.ir:443?security=reality&encryption=none&pbk=HcaTDC-cv7e7-shM2Q0dWDH81-BKOMRVILDqZByCnwc&headerType=none&fp=ios&spx=%2FY9zi6R1jx1LCYvG&type=tcp&sni=play.google.com&sid=98bd9f14#R-%F0%9F%87%B8%F0%9F%87%AA
 
-vless://22fb4488-1f26-4dd0-b03b-b98c227ff6d6@190.93.244.11:8080?mode=auto&path=%2F&security=none&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=xhttp#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%F0%9F%92%99%F0%9F%A7%A1
+vless://3cd3dad1-b004-4e5a-8b94-b2fffa068700@static.tanio.ir:2082?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#http-tcp-play-%F0%9F%87%BA%F0%9F%87%B2
 
-
-vless://3640a7c1-17bf-4a39-b5d5-f431bd89914f@104.24.254.236:2052?path=%2F&security=none&encryption=none&host=cccc.jaegbsem36.cfd%3A80&type=ws#xhttp.4
+vless://3cd3dad1-b004-4e5a-8b94-b2fffa068700@help.zivartan.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#http-80-tcp-play%F0%9F%87%B8%F0%9F%87%AA
